@@ -1,5 +1,7 @@
 import '@/styles/globals.css';
-import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/css/bootstrap.css';
+import 'react-tabs/style/react-tabs.css';
+
 import type { AppProps } from 'next/app'
 
 export default function App({ Component, pageProps }: AppProps) {

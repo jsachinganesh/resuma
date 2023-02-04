@@ -25,8 +25,9 @@ export default function Home() {
           <div className="row">
             <div className="col-lg-4 d-flex flex-column justify-content-start gap-4 pb-4 pb-lg-0">
              <Profile/>
-             <Infomation/>
              <Skills/>
+             <Infomation/>
+            
             </div>
             <div className="col-lg-8 d-flex flex-column justify-content-start gap-4">
               <AboutMe/>
